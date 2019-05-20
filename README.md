@@ -118,6 +118,7 @@
 
 ## Vue 
 
+- [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) - :gem: Frontend access control framework based Vue
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
 - [vue-memory-game](https://github.com/leftstick/vue-memory-game) - A tiny game written in vue. It's inspired by IgorMinar's Memory-Game
