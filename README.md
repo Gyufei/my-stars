@@ -41,7 +41,6 @@
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [d2-admin](https://github.com/d2-projects/d2-admin) - :rainbow: An elegant dashboard
-- [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [Heroes-with-Vue](https://github.com/Gyufei/Heroes-with-Vue) - 使用 Vue 实现 Angular 文档中的英雄教程 Tour of Heroes。
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [vue-navigation](https://github.com/zack24q/vue-navigation) - A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库，记录路由并缓存页面，像原生APP导航一样。
@@ -103,7 +102,9 @@
 
 ## TypeScript 
 
+- [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - 🌡 A highly customized slider component
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Vue.js and Property Decorator
