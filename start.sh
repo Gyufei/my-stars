@@ -1,15 +1,15 @@
 MY_GITHUB_NAME="Gyufei"
-echo "getting ${MY_GITHUB_NAME} star project..."
+echo "\033[40 \033[32m==== getting ${MY_GITHUB_NAME} star project ====\033[0m"
 starred --username $MY_GITHUB_NAME --sort > README.md
 
-echo "git add change..."
+echo "\033[40 \033[32m==== git add change ====\033[0m"
 git add README.md
 
-echo "git add change..."
+echo "\033[40 \033[32m==== git commit change====\033[0m"
 git commit -m 'update star'
 
-echo "git push..."
+echo "\033[40 \033[32m==== git push change====\033[0m"
 git push origin master
 
-echo "success"
+echo "\033[40 \033[32msuccess\033[0m"
 
