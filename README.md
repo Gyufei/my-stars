@@ -9,6 +9,7 @@
   - [CSS](#css)
   - [Go](#go)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
@@ -26,6 +27,7 @@
 
 ## CSS 
 
+- [tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [sassCore](https://github.com/marvin1023/sassCore) - 一份基础的scss库，包括常用reset, mixin, grids, typo, css3, media queries等多个文件，是你sass开发的必备库
 - [2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [primeng-quickstart-webpack](https://github.com/primefaces/primeng-quickstart-webpack) - 
@@ -57,6 +59,10 @@
 - [angular-starter](https://github.com/PatrickJS/angular-starter) - :tada: An Angular Starter kit featuring Angular (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack
 - [wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
 - [draggable](https://github.com/qiangzi7723/draggable) - 打造跨平台的轻量级原生JS拖拽组件库
+
+## Jupyter Notebook 
+
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 ## Makefile 
 
@@ -121,7 +127,7 @@
 
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) - :gem: Frontend access control framework based Vue
-- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                http://panjiachen.github.io/vue-element-admin
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [vue-memory-game](https://github.com/leftstick/vue-memory-game) - A tiny game written in vue. It's inspired by IgorMinar's Memory-Game
 
 
