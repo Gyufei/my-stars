@@ -89,6 +89,7 @@
 
 ## Python 
 
+- [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
 - [pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
