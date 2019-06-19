@@ -27,6 +27,7 @@
 
 ## CSS 
 
+- [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [sassCore](https://github.com/marvin1023/sassCore) - 一份基础的scss库，包括常用reset, mixin, grids, typo, css3, media queries等多个文件，是你sass开发的必备库
 - [2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
@@ -38,6 +39,7 @@
 
 ## JavaScript 
 
+- [vue-lazyload](https://github.com/hilongjw/vue-lazyload) - A Vue.js plugin for lazyload your Image or Component in your application.
 - [antd-admin-boilerplate](https://github.com/myqianlan/antd-admin-boilerplate) - [deprecated] 以 antd 为基础组件构建的一套中后台管理系统的基本架构模板
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) - 拼音匹配，具备分词、缩写、多音字匹配能力
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
