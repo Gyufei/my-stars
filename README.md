@@ -39,6 +39,8 @@
 
 ## JavaScript 
 
+- [hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
+- [async-validator](https://github.com/yiminghe/async-validator) - validate form asynchronous
 - [vue-lazyload](https://github.com/hilongjw/vue-lazyload) - A Vue.js plugin for lazyload your Image or Component in your application.
 - [antd-admin-boilerplate](https://github.com/myqianlan/antd-admin-boilerplate) - [deprecated] 以 antd 为基础组件构建的一套中后台管理系统的基本架构模板
 - [pinyin-match](https://github.com/xmflswood/pinyin-match) - 拼音匹配，具备分词、缩写、多音字匹配能力
@@ -51,7 +53,7 @@
 - [Sorts](https://github.com/damonare/Sorts) - The algorithm of sort.Personal site:http://damonare.cn
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
 - [webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
-- [feflow](https://github.com/feflow/feflow) - 🚀 A command line tool aims to improve front-end engineer workflow and standard, powered by Node.js.
+- [feflow](https://github.com/Tencent/feflow) - 🚀 A command line tool aims to improve front-end engineer workflow and standard, powered by Node.js.
 - [bideo.js](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video for the Web.
 - [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and visualization library for browser
 - [gridstack.js](https://github.com/gridstack/gridstack.js) - Design your own drag-and-drop dashboards with ease
@@ -75,7 +77,7 @@
 - [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-- [50weekly](https://github.com/ihtml5/50weekly) - 50weekly 发现高质量的前端资源  第三十二周已更新
+- [50weekly](https://github.com/ihtml5/50weekly) - 50weekly 发现高质量的前端资源  第三十三周已更新
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [vue-docs-zh-cn](https://github.com/vuejs/vue-docs-zh-cn) - 
 - [weixin-xiaochengxu666-info](https://github.com/xiaobei666/weixin-xiaochengxu666-info) - 微信小程序开发框架、资源-干货汇总
